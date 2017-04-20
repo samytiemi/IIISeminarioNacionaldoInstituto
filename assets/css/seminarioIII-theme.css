@@ -104,19 +104,19 @@ position:relative;     left:30%; }
 }
 
 #temas {
-    color: #C12424;
+    color: #333;
     height: auto;
     margin: 0px 30px;
 }
 #temas h2{
-    font-size: 30px;
+    font-size: 35px;
     font-weight: bold;
     text-transform: uppercase;
     text-align: center;
-    color: #C12424;
+    color: #333;
 }
 #temas ul > li{
-    font-size: 14px;
+    font-size: 15px;
     padding-bottom:10px;
     text-transform: uppercase;
 }
@@ -149,8 +149,8 @@ position:relative;     left:30%; }
 .page-content{
     background-color: #fff;
     height: auto;
-    color: #C12424;
-    border: 1px solid #C12424;
+    color: #333;
+    border: 1px solid #333;
     margin: 0px 30px;
 }
 /* Content Default */
@@ -315,6 +315,10 @@ footer{
     height: 50px; 
     margin-top: 50px; 
     margin-left: 30px
+}
+
+.textEvento{
+    font-size: 16px;
 }
     
 /* Footer */

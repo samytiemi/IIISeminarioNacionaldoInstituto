@@ -120,7 +120,7 @@
                 </a>
             </div>
         </div>        
-        <div class="col-sm-5 vermelho" id="temas">
+        <div class="col-sm-5" id="temas">
             <h2>Temas</h2>
             <ul>
                 <li> Dependência tecnológica</li>
