@@ -56,12 +56,16 @@ body {
 
 /* Carousel Slides */
 #slides-home img{
-    max-height: 500px;
+    height: 500px;
     left: 20%;
     right: 20%;
 }
 
 /* Carousel Slides */
+
+.carousel-inner .item img{
+    height: 250px !important; 
+}
 
 /* Home */
 #logo {
