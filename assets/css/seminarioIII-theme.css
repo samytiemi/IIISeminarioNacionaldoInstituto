@@ -157,6 +157,11 @@ position:relative;     left:30%; }
     border: 1px solid #333;
     margin: 0px 30px;
 }
+
+.inscricao{
+    font-size:10px;
+    position: left;
+}
 /* Content Default */
 
 /* O Evento */

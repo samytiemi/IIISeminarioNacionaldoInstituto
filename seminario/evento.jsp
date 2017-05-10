@@ -61,7 +61,7 @@
     <section>
         <div class="container panel panel-default">
             <div class="col-sm-12 panel-body">
-                    <h2 class="vermelho"> asdadObjetivo</h2>
+                    <h2 class="vermelho">Objetivo</h2>
                 <div class="col-sm-8">
                     <p>Disseminar os resultados de estudos e pesquisas acadêmicas e científicas sobre os impactos humanos e sociais do uso de tecnologias de informação e comunicação, com especial atenção, relacionados à proteção das crianças e dos adolescentes, bem como, aos aspectos psicológicos, à aprendizagem, à segurança, ao ambiente produtivo e ao trânsito na era digital</p>
                 </div>

@@ -154,13 +154,12 @@
             </div>
             <div class="col-sm-7 text-footer" id="apoio">
                 <p>Apoio</p>
-                <ul class="parceiros">
-                    <li><img src="./../assets/images/parceiros/brazil_foundation_barra.png" alt="Brazil Foundation" class="img-responsive"></li>
-                    <li><img src="./../assets/images/parceiros/crenvi_barra.png" alt="CRENVI" class="img-responsive"></li>
-                    <li><img src="./../assets/images/parceiros/unibrasil_barra.png" alt="UniBrasil" class="img-responsive"></li>
-                    <li><img src="./../assets/images/parceiros/utfpr_barra.png" alt="UTFPR" class="img-responsive"></li>
-                    <li><img src="./../assets/images/parceiros/oab_parana_barra
-                             .jpg" alt="OAB Paraná" class="img-responsive"></li>
+               <ul class="parceiros">
+                    <li><img src="./assets/images/parceiros/brazil_foundation_barra.png" alt="Brazil Foundation" class="img-responsive"></li>
+                    <li><img src="./assets/images/parceiros/instituto_renault_barra.png" alt="Instituto Renault" class="img-responsive"></li>
+                    <li><img src="./assets/images/parceiros/instituto_grpcom_barra.png" alt="GRPCOM Grupo Paranaense de Comunicação" class="img-responsive"></li>
+                    <li><img src="./assets/images/parceiros/sinepe_barra.png" alt="SINEPE=PR" class="img-responsive"></li>
+                    <li><img src="./assets/images/parceiros/vivo.png" alt="VIVO" class="img-responsive"></li>
                 </ul>
     </footer>
 
